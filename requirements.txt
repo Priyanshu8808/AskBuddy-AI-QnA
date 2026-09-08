@@ -1,5 +1,5 @@
 langchain
-lanchain-openai
+langchain-openai
 langchain-huggingface
 langchain-anthropic
 langchain-groq
